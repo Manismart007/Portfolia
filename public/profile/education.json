@@ -1,0 +1,17 @@
+{
+    "education":[
+        {
+            "title": "Jun 2015 - Jun 2019",
+            "cardTitle": "BE, Electronics and Communication Engineering",
+            "cardSubtitle":"KSR College of Engineering, Tiruchengode, Namakkal District.",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2015",
+            "cardTitle": "High School",
+            "cardSubtitle":"Amala Matriculaion Higher Secondary School, Salem District"
+        }
+    ]
+}
